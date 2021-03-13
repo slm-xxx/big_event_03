@@ -1,4 +1,4 @@
-let baseURL = "http://api-breakingnews-web.itheima.net"
+let baseURL = "http://ajax.frontend.itheima.net"
 
 $.ajaxPrefilter(function (options) {
     console.log(options);
